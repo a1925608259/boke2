@@ -1,11 +1,11 @@
 {
-    "title": "小豪的主页——醉里博客",
-    "description": "小豪的主页——醉里博客",
-    "keywords": "小豪,醉里博客,醉里,个人主页",
-    "author": "小豪",
+    "title": "付志豪——复制好",
+    "description": "付志豪的个人主页",
+    "keywords": "付志豪,醉里博客,醉里,个人主页",
+    "author": "付志豪",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "202271",
-    "logo_text_2": "xyz",
+    "logo_text_1": "FUZHIHAO",
+    "logo_text_2": "CN",
     "github": "xiaohao8",
     "qq": "3543601929",
     "email": "i@202271.xyz",
@@ -17,7 +17,7 @@
         "博客"
     ],
     "link_2": [
-        "https://home.202271.xyz/",
+        "https://fuzhihao.cn/",
         "fa-solid fa-cloud",
         "主页"
     ],
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "谷歌"
     ],
-    "Copyright_text": "小豪",
+    "Copyright_text": "付志豪",
     "beian": "萌ICP备20226555号"
 }
