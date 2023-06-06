@@ -4,8 +4,8 @@
     "keywords": "hexo,醉里博客,醉里,个人主页",
     "author": "小豪",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "FUZHIHAO",
-    "logo_text_2": "CN",
+    "logo_text_1": "202271",
+    "logo_text_2": "xyz",
     "github": "xiaohao8",
     "qq": "3543601929",
     "email": "i@202271.xyz",
@@ -19,7 +19,7 @@
     "link_2": [
         "https://fuzhihao.cn/",
         "fa-solid fa-cloud",
-        "主页"
+        "分享"
     ],
     "link_3": [
         "https://stats.uptimerobot.com/8l5M8sXmoY",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "谷歌"
     ],
-    "Copyright_text": "付志豪",
+    "Copyright_text": "星河",
     "beian": "萌ICP备20226555号"
 }
